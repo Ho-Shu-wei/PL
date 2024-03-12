@@ -9,5 +9,6 @@
 kaggle---收集資料  
 
 ## 作業連結區  
+作業一：https://colab.research.google.com/drive/1rgLeC8qPCAuJy9lnhudHGMa9h7C9cvKK?usp=sharing  
 
 ## 專題連結區
