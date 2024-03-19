@@ -1,0 +1,19 @@
+import pandas as pd
+
+data = pd.read_csv('/PL_hw1.csv')
+
+snow_cities = set(data[data['Snow'] == 'Yes']['City'])
+
+population_over_300k_cities = set(data[data['Population'] > 300000]['City'])
+
+union_set = snow_cities.union(population_over_300k_cities)
+print("聯集:")
+print(union_set)
+
+intersection_set = snow_cities.intersection(population_over_300k_cities)
+print("\n交集:")
+print(intersection_set)
+
+difference_set = snow_cities.difference(population_over_300k_cities)
+print("\n差集:")
+print(difference_set)
