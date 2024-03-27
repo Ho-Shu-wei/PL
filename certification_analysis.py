@@ -36,7 +36,7 @@ for cert in intersection:
 
 
 
-
+#找出起薪（less than 1 year）最高的產業類別
 data = {
     "Electronics/Information Technology/Software/Semiconductors": 35000,
     "General Traditional Manufacturing": 32000,
@@ -64,9 +64,7 @@ for industry in sorted_data:
 
 
 
-
-
-
+#找出more than 7 years 和 less than 1 year salary的相差值最高的產業並算出相差值為何
 data = {
     "Electronics/Information Technology/Software/Semiconductors": {"Less than 1 year salary": 35000, "More than 7 years salary": 40100},
     "General Traditional Manufacturing": {"Less than 1 year salary": 32000, "More than 7 years salary": 36500},
