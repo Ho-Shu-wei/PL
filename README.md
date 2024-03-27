@@ -11,11 +11,11 @@ kaggle---收集資料
 ## 作業連結區  
 作業一：https://colab.research.google.com/drive/1rgLeC8qPCAuJy9lnhudHGMa9h7C9cvKK?usp=sharing  
 作業二：  
-人資證照分析
-人資各產業薪資及年資
-各產業人資薪水資料視覺化
-最熱門人資證照資料視覺化
- 
+人資證照分析--- https://pse.is/5r3yvm  
+人資各產業薪資及年資---https://pse.is/5r3yxv  
+各產業人資薪水資料視覺化---https://pse.is/5r3yyk  
+最熱門人資證照資料視覺化---https://pse.is/5r3yyt  
+
 
 
 ## 專題連結區  
