@@ -15,6 +15,8 @@ kaggle---收集資料
 人資各產業薪資及年資---https://pse.is/5r3yxv  
 各產業人資薪水資料視覺化---https://pse.is/5r3yyk  
 最熱門人資證照資料視覺化---https://pse.is/5r3yyt  
+各領域人資各項分析---https://pse.is/5r3z4f  
+
 
 
 
