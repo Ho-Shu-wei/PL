@@ -11,10 +11,13 @@ kaggle---收集資料
 ## 作業連結區  
 作業一：https://colab.research.google.com/drive/1rgLeC8qPCAuJy9lnhudHGMa9h7C9cvKK?usp=sharing  
 作業二：  
-https://github.com/Ho-Shu-wei/PL-Repo/blob/main/PL-hw2.py 
-https://github.com/Ho-Shu-wei/PL-Repo/blob/main/certification_analysis.py  
-https://github.com/Ho-Shu-wei/PL-Repo/blob/main/%E5%90%84%E7%94%A2%E6%A5%AD%E4%BA%BA%E8%B3%87%E8%96%AA%E6%B0%B4%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96.png  
-https://github.com/Ho-Shu-wei/PL-Repo/blob/main/%E6%9C%80%E7%86%B1%E9%96%80%E4%BA%BA%E8%B3%87%E8%AD%89%E7%85%A7%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96.png  
+人資證照分析![image](https://github.com/Ho-Shu-wei/PL-Repo/assets/144136807/c6b035d4-53ac-489a-888f-000fa4928a2a)  
+人資各產業薪資及年資![image](https://github.com/Ho-Shu-wei/PL-Repo/assets/144136807/827cce4f-b214-4e08-b148-adc1eb0db13b)  
+各產業人資薪水資料視覺化![image](https://github.com/Ho-Shu-wei/PL-Repo/assets/144136807/df00c7e2-86f5-4ea7-97c4-d4373477f871)  
+最熱門人資證照資料視覺化![image](https://github.com/Ho-Shu-wei/PL-Repo/assets/144136807/3d134049-394a-4ef4-966e-e35a4dbf32fb)  
+
+
+
 
 
 
