@@ -23,6 +23,8 @@ kaggle---收集資料
 <a href='https://colab.research.google.com/drive/10PJnU3x0-X9R38xX48jHxydKWj7F6ahv?usp=sharing '>hw3程式碼</a>  
 <a href='https://github.com/Ho-Shu-wei/PL-Repo/blob/main/hw3-data.csv'>hw3_csv檔</a>  
 <a href='https://github.com/Ho-Shu-wei/PL-Repo/blob/main/hw3-data.json'>hw3_json檔</a>  
+<a href='https://youtu.be/iwVWcyItIYU'>hw3_說明影片</a>  
+
 
 
 
