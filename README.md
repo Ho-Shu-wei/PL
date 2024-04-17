@@ -10,7 +10,6 @@ kaggle---收集資料
 
 ## 作業連結區  
 作業一：  
-
 <a href='https://colab.research.google.com/drive/1rgLeC8qPCAuJy9lnhudHGMa9h7C9cvKK?usp=sharing '>hw1_程式碼</a>  
 
 作業二：  
