@@ -35,8 +35,9 @@ week 6
 作業二：  
 人資證照分析--- https://pse.is/5r3yvm  
 人資各產業薪資及年資---https://pse.is/5r3yxv  
-各產業人資薪水資料視覺化---https://pse.is/5r3yyk  
-最熱門人資證照資料視覺化---https://pse.is/5r3yyt  
+各產業人資薪水資料視覺化---https://reurl.cc/9vZ92n  
+最熱門人資證照資料視覺化---https://reurl.cc/dnVoEM  
+最熱門與企業愛用前十證照文氏圖---https://reurl.cc/mMqQE1  
 各領域人資各項分析---https://pse.is/5r3z4f  
 
 作業三：  
