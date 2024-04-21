@@ -5,8 +5,26 @@
 系級：科技系2年級  
 
 ## 課程筆記區  
-3/7  
+week 3  
 kaggle---收集資料  
+
+week 4  
+SQL Databases vs NoSQL Databases  
+
+week 5  
+資料正則化 (regular expression)  
+
+week 6  
+爬蟲流程說明:  
+設置基本的爬蟲參數，包括目標 URL、需要發送的 cookies。
+迴圈訪問每一頁，直到找到的發文日期早於我們設定的起始日期。
+對每一頁上的文章進行解析，提取出文章的標題、作者、日期和連結，然後將這些資訊添加到 DataFrame 中。
+確定發文的日期是否在我們想要的範圍內。如果不在，終止迴圈。
+最後，輸出或處理 DataFrame。
+
+
+
+
 
 ## 作業連結區  
 作業一：  
