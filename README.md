@@ -10,7 +10,8 @@ kaggle---收集資料
 
 week 4  
 SQL Databases vs NoSQL Databases  
-JSON檔轉成資料視覺化（心智圖）。
+JSON檔轉成資料視覺化（心智圖）https://jsoncrack.com/editor  
+
 
 week 5  
 資料正則化 (regular expression)  
