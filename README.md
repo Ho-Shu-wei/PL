@@ -52,6 +52,7 @@ Jieba(斷詞)---可以用來應用做會議紀錄、整理大篇幅資料等等
 <a href='https://youtu.be/iwVWcyItIYU'>hw3_說明影片</a>  
 
 作業四：  
+<a href='https://github.com/Ho-Shu-wei/PL-Repo/blob/main/PL_HW4.ipynb'>hw4-非結構化資料做特徵提取並畫出關聯圖 </a>  
 
 
 
